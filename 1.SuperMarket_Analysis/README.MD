@@ -5,6 +5,15 @@ The dashboard includes multiple pages with interactive filters for Category, Yea
 
 ---
 
+## 📂 **Source Data (Excel Project & Raw Files)**  
+All raw data, Excel cleaning steps, and preprocessing are available here:
+
+🔗 **Superstore Sales & Shipping – Excel Project (Raw + Clean Data)**  
+https://github.com/utkarsh-naik10/EXCEL_PROJECTS/tree/main/1.Superstore%20Analysis
+
+This Power BI dashboard is built on top of the cleaned dataset from the above Excel project.
+
+---
 ## 🎥 **Dashboard Preview (GIF)**
 
 ![Dashboard GIF](./Result_Snapshots/DASHBBOARD.gif)
