@@ -17,13 +17,12 @@ The dataset used here is prepared from the Excel project linked below, which con
 ---
 
 ## 🔗 Source Data (Excel Project)
-Raw data and preparation steps are available here:
 
-👉 **Excel Project — Raw & Cleaned Dataset**  
-https://github.com/utkarsh-naik10/EXCEL_PROJECTS/tree/main/1.Superstore%20Analysis
+Raw data and all preparation steps are available here:
 
-This Power BI report uses the processed dataset exported from this Excel workflow.
+👉 **[Excel Project — Raw & Cleaned Dataset](https://github.com/utkarsh-naik10/EXCEL_PROJECTS/tree/main/1.Superstore%20Analysis)**
 
+This Power BI report uses the cleaned and processed dataset exported from the above Excel workflow.
 ---
 
 ## 🎥 Full Dashboard Preview (GIF)
