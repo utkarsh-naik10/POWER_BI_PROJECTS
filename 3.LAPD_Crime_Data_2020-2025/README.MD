@@ -1,4 +1,4 @@
-# LAPD Crime Data (2020–2025) — Power BI Dashboard
+# 📊 LAPD Crime Data (2020–2025) — Power BI Dashboard
 
 This Power BI project analyzes Los Angeles Police Department (LAPD) crime records from **2020 to 2025**, focusing on crime trends, victim demographics, area-wise crime distribution, and drill-through analysis at the division level.
 
@@ -20,14 +20,14 @@ Raw + cleaned scripts are available here:
 ![Dashboard 1](./Result_Snapshots/dashboard_1.png)
 
 ### **Key Insights**
-- Total recorded crimes: **1M+**
-- Active cases: **802K**
-- Most common crime type: **Vehicle – Stolen**
-- Most crimes occur in **Central** division.
-- **Hispanic** descent is the most common victim group.
-- Crime trend peaked in **2022–2023**, followed by a decline in 2024–2025.
-- Serious crimes account for **~60%** of all reported crimes.
-- Gender distribution is balanced, with **Male** victims slightly higher than Female.
+- Total recorded crimes: **1M+**  
+- Active cases: **802K**  
+- Most common crime type: **Vehicle – Stolen**  
+- Crime levels highest in **Central** division  
+- **Hispanic** descent appears most frequently among victims  
+- Crime trend peaked in **2022–2023**, then declined sharply  
+- Serious crimes make up **~60%** of all cases  
+- Gender distribution is balanced, with **Male victims slightly higher**
 
 ---
 
@@ -36,14 +36,14 @@ Raw + cleaned scripts are available here:
 ![Dashboard 2](./Result_Snapshots/dashboard_2.png)
 
 ### **Key Insights**
-- Crime increased significantly from **2021 → 2022**, followed by a slight decrease in 2023.
-- Central and 77th Street remain the **top crime-dense areas** across all three years.
-- Serious vs non-serious crime ratios remain consistent year-to-year.
-- Victim gender distribution shows:
-  - **Male victims ≈ 40%**
-  - **Female victims ≈ 36%**
-  - **Unknown ≈ 22–25%**
-- Hispanic descent remains the largest victim group (~31–32%).
+- Crime rose significantly from **2021 → 2022**, then dipped slightly in 2023  
+- **Central** and **77th Street** consistently report highest crime numbers  
+- Serious vs non-serious crime proportions remain stable  
+- Victim gender distribution across years:
+  - **Male ≈ 40%**  
+  - **Female ≈ 36%**  
+  - **Unknown ≈ 22–25%**  
+- **Hispanic descent** remains the largest victim category (~31–32%)
 
 ---
 
@@ -52,28 +52,29 @@ Raw + cleaned scripts are available here:
 ![Dashboard 3](./Result_Snapshots/dashboard_3.png)
 
 ### **Key Insights**
-#### **Crime Breakdown**
-- Largest victim age groups:
+
+#### 🔹 **Crime Breakdown**
+- Major victim age groups:
   - **0–12 (Child)**  
   - **36–50 (Adult)**  
-  - **26–35 (Young Adult)**  
-- Reporting delays:
+  - **26–35 (Young Adult)**
+- Reporting Delay:
   - Majority reported **Same Day (62%)**
-  - Few cases reported after 7+ days.
-- Time-of-day pattern:
-  - Crimes highest during **Night (6pm–12am)** and **Afternoon**.
-- Heatmap shows high counts among:
-  - **Black** and **Hispanic** descent victims.
-- Crime frequency highest on **Friday**.
-- Most common crime types:
-  - **Vehicle – Stolen**,  
-  - **Assault**,  
-  - **Battery – Simple**,  
-  - **Theft of Identity**.
+- Time-of-day analysis:
+  - Crime highest during **Night (6pm–12am)** and **Afternoon**
+- Victim descent heatmap:
+  - Largest: **Black** and **Hispanic** communities
+- Crime frequency tends to peak on **Fridays**
 
-#### **Case Status**
-- Major category: **Open Investigations (46K+)**  
-- Arrests are considerably lower in comparison.
+#### 🔹 **Top Crime Types**
+- **Vehicle – Stolen**  
+- **Assault**  
+- **Battery – Simple Assault**  
+- **Theft of Identity**
+
+#### 🔹 **Case Status**
+- **46K+ Open Investigations**  
+- Arrest categories significantly lower in comparison
 
 ---
 
@@ -82,25 +83,28 @@ Raw + cleaned scripts are available here:
 ![Dashboard 4](./Result_Snapshots/dashboard_4.png)
 
 ### **Key Insights**
-#### **Crime Breakdown**
-- Dominant victim ages:
+
+#### 🔹 **Crime Breakdown**
+- Common victim ages:
   - **0–12 (Child)**  
   - **36–50 (Adult)**  
   - **26–35 (Young Adult)**
-- Reporting pattern similar to 77th Street:
-  - Majority **Same Day** and **1–3 Days**.
-- Crime peak times:
-  - **Afternoon (33%)**
-  - **Night (31%)**
-- Victim descent shows:
-  - Highest among **White**, **Hispanic**, and **Unknown** categories.
-- Crimes per day highest on **Friday** and lowest on **Sunday**.
+- Reporting delays:
+  - Mostly **Same Day** and **1–3 Days**
+- Time-of-day crime:
+  - **Afternoon (33%)** and **Night (31%)** highest
+- Victim descent:
+  - High among **White**, **Hispanic**, and **Unknown**
 
-#### **Case Status**
-- Most cases marked as **Open Investigations (~38K)**.
-- Arrest numbers similar across subcategories.
+#### 🔹 **Crimes by Day**
+- Highest: **Friday**  
+- Lowest: **Sunday**
 
-#### **Top Crime Types**
+#### 🔹 **Case Status**
+- **38K+ Open Investigations**  
+- Similar arrest count distribution across categories
+
+#### 🔹 **Top Crime Types**
 - **Vehicle – Stolen**  
 - **Burglary**  
 - **Battery – Simple Assault**  
@@ -109,19 +113,18 @@ Raw + cleaned scripts are available here:
 ---
 
 ## 📌 **Project Summary**
-- Built an interactive Power BI report showing **LAPD crime behavior over 6 years**.
-- Features:
-  - KPI summary cards  
-  - Year-wise trends  
+- Developed an interactive **Power BI dashboard** visualizing LAPD crime activity over 6 years  
+- Includes:
+  - KPI summary  
+  - Time trends  
   - Area-wise distribution  
-  - Victim demographics (age, gender, descent)  
-  - Crime type breakdown  
-  - Reporting delays  
-  - Time bucket patterns  
-  - Drill-through pages for area-specific insights  
+  - Victim demographics  
+  - Reporting delay analysis  
+  - Time bucket crime distribution  
+  - Drill-through reports for **77th Street** and **North Hollywood**
+
 ---
 
 ## 👤 **Author**
 **Utkarsh Naik**  
 📧 *utkarshnaik.in@gmail.com*
-
